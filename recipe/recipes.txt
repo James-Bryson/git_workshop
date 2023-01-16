@@ -1,7 +1,14 @@
 <<<<<<< HEAD
 This is a recipe for a kimchi pancake (experimental version).
 
+<<<<<<< HEAD
 Nom nom nom
 =======
 This is a recipe for a kimchi pancake.
 >>>>>>> parent of 3d8f6ab (Changing recipe in experimental)
+=======
+1) Buy Kimchi
+=======
+This is a recipe for a kimchi pancake (experimental version).
+>>>>>>> experimental
+>>>>>>> main
