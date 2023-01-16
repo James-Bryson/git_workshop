@@ -1,9 +1,3 @@
 ## Test repository for the Git workshop
 
-#First subheader
-
-Rabble rabble
-
-#Second subheader
-
-Rabble rabble
+This is a test repository for the Git workshop by heads.
