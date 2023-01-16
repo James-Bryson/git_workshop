@@ -1,1 +1,1 @@
-This is a recipe for a kimchi pancake.
+This is a recipe for a kimchi pancake (experimental version).
